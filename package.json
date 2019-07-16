@@ -2,7 +2,7 @@
   "name": "strapi-provider-email-sendinblue",
   "version": "1.0.2",
   "description": "Sendinblue provider for strapi email",
-  "homepage": "https://github.com/eddybordi/strapi-provider-email-sendinblue",
+  "homepage": "https://github.com/plduhoux/strapi-provider-email-sendinblue",
   "keywords": [
     "email",
     "strapi",
@@ -19,23 +19,21 @@
     "isProvider": true
   },
   "author": {
-    "email": "eddy@bordi.fr",
-    "name": "Eddy Bordi",
-    "url": "https://bordi.fr"
+    "email": "pl.duhoux@gmail.com",
+    "name": "Pierre-Louis Duhoux"
   },
   "maintainers": [
     {
-      "email": "eddy@bordi.fr",
-      "name": "Eddy Bordi",
-      "url": "https://bordi.fr"
+      "email": "pl.duhoux@gmail.com",
+      "name": "Pierre-Louis Duhoux"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:eddybordi/strapi-provider-email-sendinblue.git"
+    "url": "git@github.com:plduhoux/strapi-provider-email-sendinblue.git"
   },
   "bugs": {
-    "url": "https://github.com/eddybordi/strapi-provider-email-sendinblue/issues"
+    "url": "https://github.com/plduhoux/strapi-provider-email-sendinblue/issues"
   },
   "engines": {
     "node": ">= 10.0.0",
